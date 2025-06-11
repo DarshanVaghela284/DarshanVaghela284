@@ -59,9 +59,9 @@
 
 ### 📫 Connect With Me
 
-<a href="mailto:vdarshan613@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/vaghela-darshan-32752b1aa/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://darshanvaghela.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=firefox-browser&logoColor=white"/></a>
+<a href="mailto:vdarshan613@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/vaghela-darshan-32752b1aa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://darshanvaghela.vercel.app" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=firefox-browser&logoColor=white"/></a>
 
 ---
 
