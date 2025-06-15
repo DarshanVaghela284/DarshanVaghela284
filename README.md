@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! I'm Darshan Vaghela 👋</h1>
+<h1 align="center">Hey there! I'm <strong>Darshan Vaghela</strong> 👋</h1>
 <p align="center">
   💻 Full Stack Developer | MERN + PostgreSQL | React & Next.js Specialist  
 </p>
