@@ -56,12 +56,10 @@ I specialize in building modern, scalable applications using the **MERN stack**,
 - 🔗 **Society Management System**  
   Web platform built using **MERN Stack + RBAC** for billing, unit tracking, and role-based access  
   → [Live Site](https://www.app.ebuilding.in/)  
-  → [Source Code](https://github.com/DarshanVaghela284/society-management)
 
 - 💼 **Portfolio Website – Darshan Vaghela**  
   Built with **Next.js** + **Tailwind**, deployed on Vercel  
   → [Live Site](https://darshanvaghela.vercel.app)  
-  → [Source Code](https://github.com/DarshanVaghela284/portfolio)
 
 ---
 
