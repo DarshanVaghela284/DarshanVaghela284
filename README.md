@@ -6,7 +6,7 @@
 <p align="center">
   <a href="mailto:vdarshan613@gmail.com">📧 Email</a> •
   <a href="https://www.linkedin.com/in/vaghela-darshan-32752b1aa/" target="_blank">🔗 LinkedIn</a> •
-  <a href="https://github.com/DarshanVaghela284/DarshanVaghela284" target="_blank">💻 GitHub</a> •
+  <a href="https://github.com/DarshanVaghela284" target="_blank">💻 GitHub</a> •
   <a href="https://darshanvaghela.vercel.app" target="_blank">🌐 Portfolio</a>
 </p>
 
@@ -14,12 +14,14 @@
 
 ### 👨‍💻 About Me
 
-- 🔧 Full Stack Engineer with **3+ years** of professional experience
-- 🧰 Proficient in building scalable apps using **MongoDB, Express.js, React.js, Node.js**, and **PostgreSQL**
-- ⚙️ Focused on **clean architecture**, **component reusability**, and **API design**
-- 🧠 Currently exploring **TypeORM**, **Docker**, and **AWS deployment**
-- 📍 Based in **Ahmedabad, India**
-- 💬 Open to freelance and remote full-time roles in modern web development
+Hi, I’m **Darshan Vaghela**, a passionate Full Stack Developer based in **Ahmedabad, India**.  
+I specialize in building modern, scalable applications using the **MERN stack**, **PostgreSQL**, and cloud tools like **Docker** and **AWS**.
+
+- 🔧 Full Stack Engineer with **3+ years** of hands-on experience
+- 🧰 Skilled in **MongoDB, Express.js, React.js, Node.js**, and **PostgreSQL**
+- ⚙️ Focused on **clean code, scalable APIs**, and **frontend performance**
+- 🧠 Exploring **TypeORM**, **Docker**, and **cloud deployments**
+- 💬 Open to **remote roles**, **freelancing**, and tech discussions
 
 ---
 
@@ -52,8 +54,14 @@
 ### 🚀 Featured Projects
 
 - 🔗 **Society Management System**  
-  `MERN + RBAC` based platform for billing, unit management, and permission control  
-  → [Live Site](https://www.app.ebuilding.in/)
+  Web platform built using **MERN Stack + RBAC** for billing, unit tracking, and role-based access  
+  → [Live Site](https://www.app.ebuilding.in/)  
+  → [Source Code](https://github.com/DarshanVaghela284/society-management)
+
+- 💼 **Portfolio Website – Darshan Vaghela**  
+  Built with **Next.js** + **Tailwind**, deployed on Vercel  
+  → [Live Site](https://darshanvaghela.vercel.app)  
+  → [Source Code](https://github.com/DarshanVaghela284/portfolio)
 
 ---
 
@@ -68,3 +76,7 @@
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
 ---
+
+### 🧠 Fun Fact
+
+> Google me as **“Darshan Vaghela GitHub”** and check out my full-stack journey!
